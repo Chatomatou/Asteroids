@@ -1,0 +1,24 @@
+﻿  main.cpp
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(53): warning C4244: 'argument' : conversion de 'unsigned int' en 'const float', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(54): warning C4244: 'argument' : conversion de 'unsigned int' en 'const float', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(55): warning C4244: 'argument' : conversion de 'unsigned int' en 'const float', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(56): warning C4244: 'argument' : conversion de 'unsigned int' en 'const float', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(57): warning C4244: 'argument' : conversion de 'unsigned int' en 'const float', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(89): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(89): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(90): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(90): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(96): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(97): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(106): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(106): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(111): warning C4838: la conversion de 'float' en 'int' requiert une conversion restrictive
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(111): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(114): warning C4244: 'argument' : conversion de 'double' en 'const int', perte possible de données
+c:\users\guerriernumérique\source\repos\battlewars\battlewars\main.cpp(115): warning C4244: 'argument' : conversion de 'double' en 'const int', perte possible de données
+  Génération de code en cours
+  1 of 630 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  BattleWars.vcxproj -> C:\Users\GuerrierNumérique\source\repos\BattleWars\x64\Release\BattleWars.exe
